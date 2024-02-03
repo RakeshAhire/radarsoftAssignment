@@ -7,7 +7,7 @@ use command "npm start" for run the client on 3000 port
 ## For Server Side :
 use command "npm start" for run ther server on 8080 port
 
-## For testing user details
+## For testing user credentials
 1) userName : test1 , Password : 1234
 2) userName : test2 , Password : 1234
    
